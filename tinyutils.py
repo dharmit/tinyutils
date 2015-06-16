@@ -28,7 +28,7 @@ def main():
 
     # Finally we just print the interfaces
 
-    print (interfaces)
+    return (interfaces)
 
 if __name__ == "__main__":
     # Do not forget this! Otherwise, nothing will seem to be working. :)
